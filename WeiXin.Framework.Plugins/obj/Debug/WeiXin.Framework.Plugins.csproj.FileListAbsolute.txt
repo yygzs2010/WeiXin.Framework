@@ -1,0 +1,11 @@
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXinPlugins\WeiXin.Framework.Plugins.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\WeiXin.Framework.Plugins.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\WeiXin.Framework.Plugins.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\log4net.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\Newtonsoft.Json.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\bin\WeiXin.Framework.Core.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.csprojResolveAssemblyReference.cache
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Plugins\obj\Debug\WeiXin.Framework.Plugins.pdb

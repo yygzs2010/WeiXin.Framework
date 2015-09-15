@@ -1,0 +1,10 @@
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll.config
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Web.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\Newtonsoft.Json.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\WeiXin.Framework.Core.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.csprojResolveAssemblyReference.cache
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\obj\Release\WeiXin.Framework.Web.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Web\bin\log4net.dll

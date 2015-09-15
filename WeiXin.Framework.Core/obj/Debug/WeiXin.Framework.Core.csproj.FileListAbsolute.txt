@@ -1,0 +1,19 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXin.Framework.Core.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXin.Framework.Core.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.pdb
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+E:\example\WeiXin.Framework\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb
+E:\Source\FTP\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.dll
+E:\Source\FTP\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\WeiXin.Framework.Core.pdb
+E:\Source\FTP\WeiXin.Framework\WeiXin.Framework.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Source\FTP\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+E:\Source\FTP\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\WeiXin.Framework.Core.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\Newtonsoft.Json.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\obj\Debug\WeiXin.Framework.Core.pdb

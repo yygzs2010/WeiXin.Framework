@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.Framework.Core", "WeiXin.Framework.Core\WeiXin.Framework.Core.csproj", "{E557410D-BA4E-4039-835C-D6A9AED94107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.Framework.Plugins", "WeiXin.Framework.Plugins\WeiXin.Framework.Plugins.csproj", "{F810A7A6-B420-4F14-9742-74BDD3DC548E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXin.Framework.Web", "WeiXin.Framework.Web\WeiXin.Framework.Web.csproj", "{4B2BD3E7-2A80-4075-900A-54F6DA00A395}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.UI", "01.UI", "{FE9D9E5C-6031-4FEB-94F8-5042F73BF2A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.WeiXinServer", "02.WeiXinServer", "{2DE0203A-DB6C-4588-BAC9-7D465F6A3623}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.DLL", "03.DLL", "{4D51275D-4D9A-4E9A-8CF3-01DA56753CE2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\WeiXin.Framework\DLL\log4net.dll = ..\..\WeiXin.Framework\DLL\log4net.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E557410D-BA4E-4039-835C-D6A9AED94107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E557410D-BA4E-4039-835C-D6A9AED94107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E557410D-BA4E-4039-835C-D6A9AED94107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E557410D-BA4E-4039-835C-D6A9AED94107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F810A7A6-B420-4F14-9742-74BDD3DC548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F810A7A6-B420-4F14-9742-74BDD3DC548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F810A7A6-B420-4F14-9742-74BDD3DC548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F810A7A6-B420-4F14-9742-74BDD3DC548E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2BD3E7-2A80-4075-900A-54F6DA00A395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2BD3E7-2A80-4075-900A-54F6DA00A395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2BD3E7-2A80-4075-900A-54F6DA00A395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2BD3E7-2A80-4075-900A-54F6DA00A395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F810A7A6-B420-4F14-9742-74BDD3DC548E} = {2DE0203A-DB6C-4588-BAC9-7D465F6A3623}
+		{E557410D-BA4E-4039-835C-D6A9AED94107} = {2DE0203A-DB6C-4588-BAC9-7D465F6A3623}
+		{4B2BD3E7-2A80-4075-900A-54F6DA00A395} = {FE9D9E5C-6031-4FEB-94F8-5042F73BF2A0}
+	EndGlobalSection
+EndGlobal

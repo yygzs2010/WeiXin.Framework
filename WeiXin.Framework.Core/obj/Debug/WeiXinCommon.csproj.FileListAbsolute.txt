@@ -1,0 +1,4 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXinCommon.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Debug\WeiXinCommon.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXinCommon.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Debug\WeiXinCommon.pdb

@@ -1,0 +1,11 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Release\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Release\WeiXin.Framework.Core.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXin.Framework.Core.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXin.Framework.Core.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\Release\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\Release\WeiXin.Framework.Core.pdb
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\bin\Release\Newtonsoft.Json.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\obj\Release\WeiXin.Framework.Core.csprojResolveAssemblyReference.cache
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\obj\Release\WeiXin.Framework.Core.dll
+E:\Source\WeiXin.Framework\WeiXin.Framework.Core\obj\Release\WeiXin.Framework.Core.pdb

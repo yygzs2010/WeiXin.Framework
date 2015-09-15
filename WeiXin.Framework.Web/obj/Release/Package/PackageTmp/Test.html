@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>微信请求消息测试</title>
+    <style type="text/css">
+        body {
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        #msg-box {
+            padding: 20px;
+            background: #eee;
+        }
+
+        #btn-submit {
+            width: 100px;
+            height: 30px;
+            background: green;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            border: none;
+            cursor: pointer;
+        }
+
+        #btn-submit:hover {
+                background: #f00;
+            }
+
+        #post-data {
+            display: none;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 5px;
+            vertical-align: top;
+            text-align: left;
+        }
+
+        ul li {
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="msg-box">
+        <form method="post" action="WeiXinRequestHandler.ashx" target="_blank">
+            <table cellpadding="0" cellspacing="0">
+                <tr>
+                    <td>
+                        <ul>
+                            <li>
+                                <h3>消息内容:(请输入标准的微信请求消息格式xml)</h3>
+                            </li>
+                            <li>
+                                <textarea id="weixin-msg" name="weixinMsg" rows="20" cols="100"></textarea></li>
+                            <li>
+                                <input type="submit" id="btn-submit" value="提交" />
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>
+                                <h3>例：请求文本消息</h3>
+                            </li>
+                            <li>
+                                <pre>
+&lt;xml&gt;
+&lt;ToUserName&gt;&lt;![CDATA[toUser]]&gt;&lt;/ToUserName&gt;
+&lt;FromUserName&gt;&lt;![CDATA[fromUser]]&gt;&lt;/FromUserName&gt; 
+&lt;CreateTime&gt;1348831860&lt;/CreateTime&gt;
+&lt;MsgType&gt;&lt;![CDATA[text]]&gt;&lt;/MsgType&gt;
+&lt;Content&gt;&lt;![CDATA[this is a test]]&gt;&lt;/Content&gt;
+&lt;MsgId&gt;1234567890123456&lt;/MsgId&gt;
+&lt;/xml&gt;
+                            </pre>
+                            </li>
+                            <li><strong>复制到消息内容文本框,点击提交进行测试!</strong></li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <script type="text/javascript">
+        (function (dom) {
+            String.prototype.trim = function () {
+                return this.replace(/(^\s*)|(\s*$)/g, "");
+            };
+
+            function $(id) {
+                return dom.getElementById(id);
+            }
+
+            dom.onkeydown = function (e) {
+                var event = window.event || e;
+                if (event.keyCode === 13) {
+                    $("btn-submit").click();
+                }
+            };
+            $("btn-submit").onclick = function () {
+                var element = $("weixin-msg"),
+                    reg = /\S+/;
+                if (!reg.test(element.value.trim())) {
+                    element.focus();
+                    return false;
+                }
+            };
+        })(document);
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Release\WeiXinCommon.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\bin\Release\WeiXinCommon.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXinCommon.dll
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXinCommon.pdb
+H:\新建文件夹 (2)\vsworks\Sys_Cms_Company\WeiXinCommon\obj\Release\WeiXinCommon.csprojResolveAssemblyReference.cache
